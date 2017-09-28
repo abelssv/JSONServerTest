@@ -1,11 +1,21 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "heartRates": [
+  {"type":"heartRate","ts":"2017-09-28T14:15:24+02:00","value":75},
+  {"type":"heartRate","ts":"2017-09-28T14:15:27+02:00","value":74},
+  {"type":"heartRate","ts":"2017-09-28T14:15:39+02:00","value":71},
+  {"type":"heartRate","ts":"2017-09-28T14:15:40+02:00","value":69},
+  {"type":"heartRate","ts":"2017-09-28T14:15:41+02:00","value":68},
+  {"type":"heartRate","ts":"2017-09-28T14:15:44+02:00","value":67},
+  {"type":"heartRate","ts":"2017-09-28T14:15:47+02:00","value":66},
+  {"type":"heartRate","ts":"2017-09-28T14:15:50+02:00","value":65},
+  {"type":"heartRate","ts":"2017-09-28T14:15:53+02:00","value":64},
+  {"type":"heartRate","ts":"2017-09-28T14:15:57+02:00","value":63},
+  {"type":"heartRate","ts":"2017-09-28T14:16:01+02:00","value":63},
+  {"type":"heartRate","ts":"2017-09-28T14:16:02+02:00","value":64},
+  {"type":"heartRate","ts":"2017-09-28T14:16:06+02:00","value":63},
+  {"type":"heartRate","ts":"2017-09-28T14:16:07+02:00","value":63},
+  {"type":"heartRate","ts":"2017-09-28T14:16:09+02:00","value":61},
+  {"type":"heartRate","ts":"2017-09-28T14:16:10+02:00","value":60},
+  {"type":"heartRate","ts":"2017-09-28T14:16:11+02:00","value":59}
+  ]
 }
